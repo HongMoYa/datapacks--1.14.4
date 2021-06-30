@@ -1,0 +1,21 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        " # ",
+        "#&#",
+        "###"     
+    ],
+    "key":{
+       "#":{
+           "item":"minecraft:obsidian"
+       },
+       "&":{
+           "item":"minecraft:nether_star"
+       }
+
+    },
+    "result":{
+        "item":"minecraft:dragon_egg",
+        "Count":1
+    }                
+}
